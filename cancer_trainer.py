@@ -20,7 +20,7 @@ print('Accuracy: {0:f}'.format(accuracy))
 
 no_and_yes_samples = np.array(
         [[4,1,1,3,2,1,3,1,1], [3,7,7,4,4,9,4,8,1]], dtype=np.int)
-y = classifier.predict(no_and_yes_samples)
+y = list(classifier.predict(no_and_yes_samples))
 print("**************************")
 print(y)
 print
