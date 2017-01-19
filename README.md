@@ -12,6 +12,20 @@ using Anaconda, I run the example using:
 (tensorflow) ~/cognitive_computing_book_examples/tensorflow_examples/cancer_deep_learning_model$ python cancer_trainer.py
 ````````
 
+Malignancy 恶性   
+biopsy 活组织检查   
+benign 良性的 
+diagnosis 诊断  
+periodic examination定期检查    
+Clump Thickness    肿块厚度     
+Uniformity of Cell Size   细胞大小的均匀性    
+Uniformity of Cell Shape 细胞形状的均匀性      
+Marginal Adhesion   边缘粘      
+Single Epithelial Cell Size  单上皮细胞的大小    
+Bare Nuclei    裸核      
+Bland Chromatin  乏味染色体     
+Normal Nucleoli  正常核     
+Mitoses 有丝分裂
 # Universary of Wisconcin Cancer Data
 
 ````````
